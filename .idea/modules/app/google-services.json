@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693352598519",
+    "firebase_url": "https://digiprof.firebaseio.com",
+    "project_id": "digiprof",
+    "storage_bucket": "digiprof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693352598519:android:a0698a2c8e78803829bcf2",
+        "android_client_info": {
+          "package_name": "com.example.digiprof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693352598519-acp7qa5fj9o2jj2sptq5rhnh2eg99817.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digiprof",
+            "certificate_hash": "bc90f3a207bb68498d7f698dff92620d09b23345"
+          }
+        },
+        {
+          "client_id": "693352598519-qh1b00l2gpae69dklql8l8qldiaacqol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8mpb00I3ZiHYaEjDsDG_u8Z3s4WqVQNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693352598519-qh1b00l2gpae69dklql8l8qldiaacqol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
